@@ -1,0 +1,1 @@
+C:\Users\asus\AppData\Local\Programs\Python\Python310\python.exe C:\Users\asus\source\repos\QA_Exam\AddRemoveElem\add_remove_elem.py
